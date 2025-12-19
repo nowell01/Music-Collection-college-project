@@ -1,0 +1,48 @@
+﻿@model MVC_Music.Models.Performance
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Performance</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Comments)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Comments)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FeePaid)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FeePaid)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Song)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Song.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Musician)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Musician.FirstName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Instrument)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Instrument.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

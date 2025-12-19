@@ -1,0 +1,45 @@
+﻿@model MVC_Music.Models.Performance
+
+@{
+    ViewData["Title"] = "Update Performance";
+}
+
+<h2>Update Performance for Song: <strong>@Model.Song.Title</strong></h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            <input type="hidden" asp-for="ID" />
+            <input type="hidden" name="SongID" value="@Model.SongID" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FeePaid" class="control-label"></label>
+                <input asp-for="FeePaid" class="form-control" />
+                <span asp-validation-for="FeePaid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MusicianID" class="control-label"></label>
+                <select asp-for="MusicianID" class="form-control" asp-items="ViewBag.MusicianID"></select>
+                <span asp-validation-for="MusicianID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InstrumentID" class="control-label"></label>
+                <select asp-for="InstrumentID" class="form-control" asp-items="ViewBag.InstrumentID"></select>
+                <span asp-validation-for="InstrumentID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Comments" class="control-label"></label>
+                <textarea asp-for="Comments" rows="7" cols="40" class="form-control"></textarea>
+                <span asp-validation-for="Comments" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <partial name="_BackToList" />
+</div>
+

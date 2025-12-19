@@ -1,0 +1,63 @@
+﻿@model IEnumerable<MVC_Music.ViewModels.PerformanceReportVM>
+
+@{
+    ViewData["Title"] = "Performance Report";
+}
+
+<h1>Performance Summary Report</h1>
+
+<form asp-controller="Performances" asp-action="PerformanceReport" method="get">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Summary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Average_Fee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Highest_Fee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lowest_Fee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total_Number_Of_Performances)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Summary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Average_Fee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Highest_Fee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lowest_Fee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total_Number_Of_Performances)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+    <partial name="_PagingNavBar" />
+</form>
+
+
+@section Scripts {
+    <script type="text/javascript">
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl)
+        })
+    </script>
+}

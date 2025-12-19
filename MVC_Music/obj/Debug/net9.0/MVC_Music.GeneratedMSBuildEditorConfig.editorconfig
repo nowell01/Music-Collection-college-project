@@ -1,0 +1,245 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_Music
+build_property.RootNamespace = MVC_Music
+build_property.ProjectDir = C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Album/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Album/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Album/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Album/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Album/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Genre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Genre/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Genre/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Genre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Instrument/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Instrument/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Instrument/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Instrument/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Instrument/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/MusicianDocument/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5Eb2N1bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/MusicianDocument/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5Eb2N1bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/MusicianDocument/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5Eb2N1bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Musician/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Musician/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Musician/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Musician/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Musician/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNpYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Performances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZm9ybWFuY2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Performances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZm9ybWFuY2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Performances/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZm9ybWFuY2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Performances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZm9ybWFuY2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Performances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZm9ybWFuY2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Performances/PerformanceReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyZm9ybWFuY2VzXFBlcmZvcm1hbmNlUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_BackToList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYWNrVG9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_PageSizeModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdlU2l6ZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_PagingNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdpbmdOYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_ViewHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SGVhZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/SongPerformance/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1BlcmZvcm1hbmNlXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/SongPerformance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1BlcmZvcm1hbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/SongPerformance/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1BlcmZvcm1hbmNlXFJlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/SongPerformance/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1BlcmZvcm1hbmNlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/SongPerformance/_SongDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1BlcmZvcm1hbmNlXF9Tb25nRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Song/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Song/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Song/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Song/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Song/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29uZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/UserRole/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/UserRole/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclJvbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kruto/OneDrive/Рабочий стол/mvc term 3/MVC_Music_Solution_Part_4_Oleksandr_Novytskyi/MVC_Music/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l87v5mgycq

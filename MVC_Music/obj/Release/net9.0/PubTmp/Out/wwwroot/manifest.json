@@ -1,0 +1,41 @@
+{
+  "name": "MVC Music Collection",
+  "short_name": "Music Cllctn",
+  "description": "The most awesome application in the world",
+  "icons": [
+    {
+      "src": "/images/logo_192x192.jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo_512x512.jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/logo.jpg",
+      "sizes": "1000x500",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Logo"
+    },
+    {
+      "src": "/images/background.jpg",
+      "sizes": "1000x500",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Background"
+    },
+    {
+      "src": "/images/blankProfile.jpg",
+      "sizes": "640x320",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Blank Profile"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/",
+  "id": "/"
+}

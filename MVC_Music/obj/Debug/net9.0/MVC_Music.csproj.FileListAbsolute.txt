@@ -1,0 +1,1362 @@
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\appsettings.Development.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\appsettings.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.staticwebassets.runtime.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.staticwebassets.endpoints.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.exe
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.deps.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.runtimeconfig.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.pdb
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Azure.Core.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Azure.Identity.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Humanizer.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Common.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SkiaSharp.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.ClientModel.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.CodeDom.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Memory.Data.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Text.Json.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.AssemblyReference.cache
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.AssemblyInfoInputs.cache
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.AssemblyInfo.cs
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.CoreCompileInputs.cache
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.MvcApplicationPartsAssemblyInfo.cs
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.MvcApplicationPartsAssemblyInfo.cache
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.RazorAssemblyInfo.cache
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.RazorAssemblyInfo.cs
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\scopedcss\bundle\MVC_Music.styles.css
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\scopedcss\projectbundle\MVC_Music.bundle.scp.css
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\40klzl3hlb-ywchtm5cda.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9oz3jvodm3-61n19gt1b8.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\4u5kjxxp6b-o71a86vbja.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0lvnlir9a1-xtxxf3hu2r.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\dls84hm6gk-bqjiyaj88i.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3b26ntece5-c2jlpeoesf.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nvuwice4z8-erw9l3u2r3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vnhpyx28f6-aexeepp0ev.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\66w6wlso10-d7shbmvgxk.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\z2yzyx546x-ausgxo2sd3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ggl0dz7qgl-k8d9w2qqmf.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0sxzoz3elp-cosvhxvwiu.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7hc9lux4z7-ub07r2b239.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\r9bpiurdga-fvhpjtyr6v.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\eary8a4eci-b7pk76d08c.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\hyyof782xt-fsbi9cje9m.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\xxi0f0zexh-rzd6atqjts.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9l3x62od92-ee0r1s7dh0.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\o80mq770wx-dxx9fxp4il.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\aeyvlyl4n7-jd9uben2k1.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ehg2t1w4tw-khv3u5hwcm.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\e7wzngqiwg-r4e9w2rdcm.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\gow6l0to48-lcd1t2u6c8.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\cbqtlw1elt-c2oey78nd0.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3uqg5rpnik-tdbxkamptv.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\5aycc6link-j5mq2jizvt.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\94e9va0xyh-06098lyss8.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\yt398abj4s-nvvlpmu67g.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\alwgty9ytr-s35ty4nyc5.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\93vtgzaa1u-pj5nd1wqec.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\275ueljjpf-46ein0sx1k.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\tww08dn8da-v0zj4ognzu.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9h4c8oc82j-37tfw0ft22.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bw6esyuckk-hrwsygsryq.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\wfpcm1uk2g-pk9g2wxc8p.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ezspe601bf-ft3s53vfgj.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\6hc0i0z0ww-6cfz1n2cew.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0ne8yjnwqq-6pdc2jztkx.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bdsguucr6e-493y06b0oq.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\aolr0rgon7-iovd86k7lj.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7wbiovafyl-vr1egmr9el.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7pobz9uxxf-kbrnm935zg.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rc5p1ybj00-jj8uyg4cgr.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\6lq5dmmimw-y7v9cxd14o.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\38meohefpd-notf2xhcfb.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bop3nygav9-h1s4sie4z3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rzn4eddjs7-63fj8s7r0e.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\b1a75k8yym-0j3bgjxly4.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3gtvxiw9z8-47otxtyo56.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\sbt20nibiz-4v8eqarkd7.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\z0fu6nnugy-356vix0kms.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\olcppo0xp1-83jwlth58m.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\116ptjo4g9-mrlpezrjn3.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7v47klize9-lzl9nlhx6b.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\89s81g9jqv-ag7o75518u.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ee0ln0altv-x0q3zqp4vz.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nqplm7ay36-0i3buxo5is.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7lqerazyu0-o1o13a6vjx.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\1rfrtoynf3-ttgo8qnofa.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\hii7fmrxfl-2z0ns9nrw6.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0wnyqrcq1j-muycvpuwrr.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\61hc78rgi0-87fc7y1x7t.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ihf0jqijvp-mlv21k5csn.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\26nb0z9wld-ega2u6crll.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\mjhji10rin-ega2u6crll.gz
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.build.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.development.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets\msbuild.MVC_Music.Microsoft.AspNetCore.StaticWebAssets.props
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets\msbuild.MVC_Music.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets\msbuild.build.MVC_Music.props
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MVC_Music.props
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MVC_Music.props
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.pack.json
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.Up2Date
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\refint\MVC_Music.dll
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.pdb
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.genruntimeconfig.cache
+C:\m\From Ana\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\ref\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\appsettings.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.staticwebassets.runtime.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.staticwebassets.endpoints.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.exe
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.deps.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.runtimeconfig.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\MVC_Music.pdb
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.AssemblyReference.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.AssemblyInfoInputs.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.AssemblyInfo.cs
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.CoreCompileInputs.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.RazorAssemblyInfo.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.RazorAssemblyInfo.cs
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\scopedcss\bundle\MVC_Music.styles.css
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\scopedcss\projectbundle\MVC_Music.bundle.scp.css
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\40klzl3hlb-ywchtm5cda.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9oz3jvodm3-61n19gt1b8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\4u5kjxxp6b-o71a86vbja.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0lvnlir9a1-xtxxf3hu2r.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\dls84hm6gk-bqjiyaj88i.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3b26ntece5-c2jlpeoesf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nvuwice4z8-erw9l3u2r3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\vnhpyx28f6-aexeepp0ev.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\66w6wlso10-d7shbmvgxk.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\z2yzyx546x-ausgxo2sd3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ggl0dz7qgl-k8d9w2qqmf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0sxzoz3elp-cosvhxvwiu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7hc9lux4z7-ub07r2b239.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\r9bpiurdga-fvhpjtyr6v.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\eary8a4eci-b7pk76d08c.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\hyyof782xt-fsbi9cje9m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\xxi0f0zexh-rzd6atqjts.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9l3x62od92-ee0r1s7dh0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\o80mq770wx-dxx9fxp4il.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\aeyvlyl4n7-jd9uben2k1.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ehg2t1w4tw-khv3u5hwcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\e7wzngqiwg-r4e9w2rdcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\gow6l0to48-lcd1t2u6c8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\cbqtlw1elt-c2oey78nd0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3uqg5rpnik-tdbxkamptv.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\5aycc6link-j5mq2jizvt.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\94e9va0xyh-06098lyss8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\yt398abj4s-nvvlpmu67g.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\alwgty9ytr-s35ty4nyc5.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\93vtgzaa1u-pj5nd1wqec.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\275ueljjpf-46ein0sx1k.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\tww08dn8da-v0zj4ognzu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\9h4c8oc82j-37tfw0ft22.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bw6esyuckk-hrwsygsryq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\wfpcm1uk2g-pk9g2wxc8p.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ezspe601bf-ft3s53vfgj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\6hc0i0z0ww-6cfz1n2cew.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0ne8yjnwqq-6pdc2jztkx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bdsguucr6e-493y06b0oq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\aolr0rgon7-iovd86k7lj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7wbiovafyl-vr1egmr9el.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7pobz9uxxf-kbrnm935zg.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rc5p1ybj00-jj8uyg4cgr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\6lq5dmmimw-y7v9cxd14o.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\38meohefpd-notf2xhcfb.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\bop3nygav9-h1s4sie4z3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\rzn4eddjs7-63fj8s7r0e.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\b1a75k8yym-0j3bgjxly4.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\3gtvxiw9z8-47otxtyo56.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\sbt20nibiz-4v8eqarkd7.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\z0fu6nnugy-356vix0kms.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\olcppo0xp1-83jwlth58m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\116ptjo4g9-mrlpezrjn3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7v47klize9-lzl9nlhx6b.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\89s81g9jqv-ag7o75518u.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ee0ln0altv-x0q3zqp4vz.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\nqplm7ay36-0i3buxo5is.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\7lqerazyu0-o1o13a6vjx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\1rfrtoynf3-ttgo8qnofa.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\hii7fmrxfl-2z0ns9nrw6.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\0wnyqrcq1j-muycvpuwrr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\61hc78rgi0-87fc7y1x7t.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\ihf0jqijvp-mlv21k5csn.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\26nb0z9wld-ega2u6crll.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\compressed\mjhji10rin-ega2u6crll.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.Up2Date
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\refint\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.pdb
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\MVC_Music.genruntimeconfig.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\ref\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\EPPlus.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part 3\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\appsettings.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.staticwebassets.endpoints.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.staticwebassets.runtime.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.exe
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.deps.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.runtimeconfig.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MVC_Music.pdb
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\EPPlus.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Resources.Extensions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.AssemblyReference.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.AssemblyInfoInputs.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.AssemblyInfo.cs
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.CoreCompileInputs.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.RazorAssemblyInfo.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.RazorAssemblyInfo.cs
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\scopedcss\bundle\MVC_Music.styles.css
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\scopedcss\projectbundle\MVC_Music.bundle.scp.css
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\40klzl3hlb-ywchtm5cda.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\9oz3jvodm3-61n19gt1b8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\4u5kjxxp6b-o71a86vbja.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\0lvnlir9a1-xtxxf3hu2r.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\dls84hm6gk-bqjiyaj88i.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\3b26ntece5-c2jlpeoesf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\nvuwice4z8-erw9l3u2r3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\vnhpyx28f6-aexeepp0ev.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\66w6wlso10-d7shbmvgxk.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\z2yzyx546x-ausgxo2sd3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ggl0dz7qgl-k8d9w2qqmf.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\0sxzoz3elp-cosvhxvwiu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\7hc9lux4z7-ub07r2b239.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\r9bpiurdga-fvhpjtyr6v.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\eary8a4eci-b7pk76d08c.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\hyyof782xt-fsbi9cje9m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\xxi0f0zexh-rzd6atqjts.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\9l3x62od92-ee0r1s7dh0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\o80mq770wx-dxx9fxp4il.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\aeyvlyl4n7-jd9uben2k1.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ehg2t1w4tw-khv3u5hwcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\e7wzngqiwg-r4e9w2rdcm.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\gow6l0to48-lcd1t2u6c8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\cbqtlw1elt-c2oey78nd0.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\3uqg5rpnik-tdbxkamptv.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\5aycc6link-j5mq2jizvt.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\94e9va0xyh-06098lyss8.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\yt398abj4s-nvvlpmu67g.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\alwgty9ytr-s35ty4nyc5.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\93vtgzaa1u-pj5nd1wqec.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\275ueljjpf-46ein0sx1k.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\tww08dn8da-v0zj4ognzu.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\9h4c8oc82j-37tfw0ft22.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\bw6esyuckk-hrwsygsryq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\wfpcm1uk2g-pk9g2wxc8p.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ezspe601bf-ft3s53vfgj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\6hc0i0z0ww-6cfz1n2cew.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\0ne8yjnwqq-6pdc2jztkx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\bdsguucr6e-493y06b0oq.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\aolr0rgon7-iovd86k7lj.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\7wbiovafyl-vr1egmr9el.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\7pobz9uxxf-kbrnm935zg.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\rc5p1ybj00-jj8uyg4cgr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\6lq5dmmimw-y7v9cxd14o.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\38meohefpd-notf2xhcfb.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\bop3nygav9-h1s4sie4z3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\rzn4eddjs7-63fj8s7r0e.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\b1a75k8yym-0j3bgjxly4.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\3gtvxiw9z8-47otxtyo56.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\sbt20nibiz-4v8eqarkd7.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\z0fu6nnugy-356vix0kms.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\olcppo0xp1-83jwlth58m.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\116ptjo4g9-mrlpezrjn3.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\7v47klize9-lzl9nlhx6b.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\89s81g9jqv-ag7o75518u.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ee0ln0altv-x0q3zqp4vz.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\nqplm7ay36-0i3buxo5is.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\7lqerazyu0-o1o13a6vjx.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\1rfrtoynf3-ttgo8qnofa.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\hii7fmrxfl-2z0ns9nrw6.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\0wnyqrcq1j-muycvpuwrr.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\61hc78rgi0-87fc7y1x7t.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\ihf0jqijvp-mlv21k5csn.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\26nb0z9wld-ega2u6crll.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\mjhji10rin-ega2u6crll.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.csproj.Up2Date
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\refint\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.pdb
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\MVC_Music.genruntimeconfig.cache
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\ref\MVC_Music.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MailKit.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\bin\Debug\net9.0\MimeKit.dll
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\aww3aaclig-zgubo0al7z.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\s9zla9udtv-pz6qiwcn13.gz
+C:\Users\kruto\OneDrive\Рабочий стол\mvc term 3\MVC_Music_Solution_Part_4_Oleksandr_Novytskyi\MVC_Music\obj\Debug\net9.0\compressed\tsqbbjut7q-apkus8cycj.gz

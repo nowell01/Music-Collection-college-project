@@ -1,0 +1,4 @@
+﻿Add-Migration -Context ApplicationDbContext -OutputDir Data\Migrations Initial
+
+Add-Migration -Context MusicContext -o Data\MOMigrations Initial
+Update-Database -Context MusicContext 

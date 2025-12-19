@@ -1,0 +1,75 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/*Added by David S*/
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* Scoped Bootstrap reset for .btn-link */
+.scoped-bootstrap .btn-link {
+    background-color: transparent !important;
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+    text-decoration: underline;
+    font-weight: 400;
+    color: #0d6efd; /* Bootstrap 5 default link color */
+    border-radius: 0 !important;
+}
+
+    .scoped-bootstrap .btn-link:hover,
+    .scoped-bootstrap .btn-link:focus {
+        color: #0a58ca;
+        text-decoration: underline;
+    }
+
+/* Scoped styling for non-clickable bold link */
+.scoped-bootstrap .btn.btn-link.disabled-link {
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    color: #6c757d !important;
+    box-shadow: none !important;
+    font-weight: bold !important;
+}
+
+.home-background {
+    background-image: url('/images/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50rem auto;
+    max-width: 100%;
+    min-height: 50vh;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}

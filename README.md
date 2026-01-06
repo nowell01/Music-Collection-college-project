@@ -1,4 +1,4 @@
-﻿# Music-Collection-college-project
+﻿# Music-Collection-college-project(https://mvcmusicazure-gscvhzgkbwduf6eg.canadacentral-01.azurewebsites.net/)
 
 This is a MVC project so it has a simple autharization system.
 
@@ -12,3 +12,4 @@ Staff: staff@outlook.com
 Admin: admin@outlook.com
 
 Passwords are same for each account.
+
